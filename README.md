@@ -1,6 +1,6 @@
 # ee250lab2
 
-# Conrad Nelson
+# Conrad Nelson - conradnelson-beep
 # Aava Abedinpour
 
 # 
