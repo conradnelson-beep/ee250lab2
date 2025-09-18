@@ -19,3 +19,9 @@ There was a small delay with the TCP response, because the packets that were los
 Question 4: If you used LLMs for any part of this lab, explain how you used it. 
 
 We used the included python sockets tutorial to write the tcp_client.py file, but when we tried compiling and running the file in terminal we received an error telling us that the port was already in use. ChatGPT said that the client was actually another server, and helped us debug our code to get the client to function properly.
+
+1. What is argc and *argv[]?
+   Argc is the integer counting the number of arguments inputted. *argv[] is the array holding each word used as argument. It can be dereferenced again to sift through individual characters inputted.
+
+2. What is a UNIX file descriptor and file descriptor table?
+
